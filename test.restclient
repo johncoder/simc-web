@@ -1,0 +1,4 @@
+POST http://localhost:8080/simc
+Content-Type: text/plain
+
+armory=us,drenden,calnus iterations=10000
